@@ -12,5 +12,25 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('layouts.master');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/home', function () {
+    return view('home');
+});
+
+Route::get('/products', function () {
+    return view('products');
+});
+
+Route::get('/team', function () {
+    return view('team');
 });
