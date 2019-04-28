@@ -4,7 +4,7 @@
     <!--==========================
       Contact Section
     ============================-->
-    <section id="contact" class="section-bg wow fadeInUp">
+    <section id="contact" class="section-bg wow fadeInUp" style="margin-top: 20px">
         <div class="container">
 
             <div class="section-header">

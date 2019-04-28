@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>BizPage Bootstrap Template</title>
+    <title>Adwenan</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -63,7 +63,9 @@
 <script src="{{asset('lib/touchSwipe/jquery.touchSwipe.min.js')}}"></script>
 <!-- Contact Form JavaScript File -->
 <script src="{{asset('contactform/contactform.js')}}"></script>
-
+<script >
+    @yield('homejs')
+</script>
 <!-- Template Main Javascript File -->
 <script src="{{asset('js/main.js')}}"></script>
 

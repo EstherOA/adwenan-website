@@ -12,25 +12,36 @@
 */
 
 Route::get('/', function () {
-    return view('layouts.master');
+    $routeVar = ['name' => 'home'];
+    return view('home', compact('routeVar'));
 });
 
 Route::get('/about', function () {
-    return view('about');
+    $routeVar = ['name' => 'about'];
+    return view('about', compact('routeVar'));
 });
 
 Route::get('/contact', function () {
-    return view('contact');
+    $routeVar = ['name' => 'contact'];
+    return view('contact', compact('routeVar'));
 });
 
 Route::get('/home', function () {
-    return view('home');
+    $routeVar = ['name' => 'home'];
+    return view('home', compact('routeVar'));
 });
 
 Route::get('/products', function () {
-    return view('products');
+    $routeVar = ['name' => 'products'];
+    return view('products', compact('routeVar'));
+});
+
+Route::get('/projects', function () {
+    $routeVar = ['name' => 'projects'];
+    return view('projects', compact('routeVar'));
 });
 
 Route::get('/team', function () {
-    return view('team');
+    $routeVar = ['name' => 'team'];
+    return view('team', compact('routeVar'));
 });
