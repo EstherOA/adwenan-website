@@ -12,7 +12,7 @@
 
         <nav id="nav-menu-container">
             <ul class="nav-menu">
-                <li class={{$routeVar['name']=='home' ? "menu-active": ""}}=><a href="/">Home</a></li>
+                <li class={{$routeVar['name']=='home' ? "menu-active": ""}}><a href="/">Home</a></li>
                 <li class={{$routeVar['name']=='about' ? "menu-active": ""}}><a href="/about">About Us</a></li>
                 <li class={{$routeVar['name']=='products' ? "menu-active": ""}}><a href="/products">Products</a></li>
                 <li class={{$routeVar['name']=='projects' ? "menu-active": ""}}><a href="/projects">Projects</a></li>

@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #18d26e;
+  background: #002171;
   color: #fff;
   display: inline-block;
   width: 44px;
@@ -257,12 +257,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
-  background: #18d26e;
+  background: #002171;
 }
 
 #intro .btn-get-started:hover {
   background: #fff;
-  color: #18d26e;
+  color: #002171;
 }
 
 /*--------------------------------------------------------------
@@ -562,6 +562,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #featured-services {
   background: #000;
+  color: white;
 }
 
 #featured-services .box {
@@ -573,7 +574,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #featured-services i {
-  color: #18d26e;
+  color: #c7b800;
   font-size: 48px;
   display: inline-block;
   line-height: 1;
@@ -663,11 +664,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col:hover .icon {
-  background-color: #fff;
+  background-color: #c7b800;
 }
 
 #about .about-col:hover i {
-  color: #18d26e;
+  color: white;
 }
 
 #about .about-col h2 {
@@ -712,7 +713,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .icon i {
-  color: #18d26e;
+  color: #c7b800;
   font-size: 36px;
   line-height: 1;
   transition: 0.5s;
@@ -720,17 +721,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .title {
   margin-left: 60px;
-  font-weight: 700;
-  margin-bottom: 15px;
+  font-weight: 500;
   font-size: 18px;
+  margin-bottom: 60px;
+  color: #111;
 }
 
 #services .title a {
   color: #111;
 }
 
-#services .box:hover .title a {
-  color: #18d26e;
+#services .box:hover .title {
+  color: #c7b800;
 }
 
 #services .description {
@@ -1121,6 +1123,38 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px 0;
 }
 
+#team .team-description a {
+  font-weight: 500;
+  color: black;
+}
+
+#team .team-description p {
+  padding: 0;
+  margin-bottom: 0;
+}
+
+#team .team-description a:hover{
+  color: #3d4852;
+}
+
+.fulltext {
+  padding-bottom: 40px;
+}
+
+.fulltext p,
+.less {
+  display: none;
+}
+
+.fulltext:target p,
+.fulltext:target .less {
+  display: inherit;
+}
+
+.fulltext:target .more {
+  display: none;
+}
+
 #team .member {
   text-align: center;
   margin-bottom: 20px;
@@ -1204,7 +1238,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #18d26e;
+  color: #c7b800;
 }
 
 #contact .contact-info address, #contact .contact-info p {
@@ -1285,7 +1319,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #18d26e;
+  background: #002171;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1294,7 +1328,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #13a456;
+  background: #1565c0;
 }
 
 /*--------------------------------------------------------------
@@ -1351,7 +1385,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #18d26e;
+  background: #c7b800;
   color: #fff;
 }
 
@@ -1378,7 +1412,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top h4::after {
-  background: #18d26e;
+  background: #c7b800;
   width: 60px;
 }
 

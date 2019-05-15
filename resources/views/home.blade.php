@@ -17,7 +17,7 @@
                             <div class="carousel-content">
                                 <h2>We are professional</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                                <a href="#services" class="btn-get-started scrollto">Browse Products</a>
                             </div>
                         </div>
                     </div>
@@ -27,7 +27,7 @@
                             <div class="carousel-content">
                                 <h2>At vero eos et accusamus</h2>
                                 <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-                                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                                <a href="#services" class="btn-get-started scrollto">Browse Products</a>
                             </div>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                             <div class="carousel-content">
                                 <h2>Temporibus autem quibusdam</h2>
                                 <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
-                                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                                <a href="#services" class="btn-get-started scrollto">Browse Products</a>
                             </div>
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                             <div class="carousel-content">
                                 <h2>Nam libero tempore</h2>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-                                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                                <a href="#services" class="btn-get-started scrollto">Browse Products</a>
                             </div>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                             <div class="carousel-content">
                                 <h2>Magnam aliquam quaerat</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                                <a href="#services" class="btn-get-started scrollto">Browse Products</a>
                             </div>
                         </div>
                     </div>
@@ -83,43 +83,43 @@
     <section id="featured-services">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 col-md-6">
+                <div class="col-lg-12 col-md-6" style="margin-top: 40px">
                     <h3>Featured Projects</h3><br>
                 </div>
                 <div class="col-lg-4 box">
                     <i class="ion-ios-bookmarks-outline"></i>
-                    <h4 class="title"><a href="">Lorem Ipsum Delino</a></h4>
-                    <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                    {{--<h4 class="title"><a href="">Lorem Ipsum Delino</a></h4>--}}
+                    <p class="description">Web mapping services (with API) for environmental monitoring for the Nepal Ministry of Environment.</p>
                 </div>
 
                 <div class="col-lg-4 box">
                     <i class="ion-ios-stopwatch-outline"></i>
-                    <h4 class="title"><a href="">Dolor Sitema</a></h4>
-                    <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                    {{--<h4 class="title"><a href="">Dolor Sitema</a></h4>--}}
+                    <p class="description">Modeling a National Health Spatial Data Infrastructure for Namibia.</p>
                 </div>
 
                 <div class="col-lg-4 box">
                     <i class="ion-ios-heart-outline"></i>
-                    <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-                    <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                    {{--<h4 class="title"><a href="">Sed ut perspiciatis</a></h4>--}}
+                    <p class="description">Web and mobile Application for Navigation and notification on the University of Ghana campus</p>
                 </div>
 
                 <div class="col-lg-4 box">
                     <i class="ion-ios-heart-outline"></i>
-                    <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-                    <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                    {{--<h4 class="title"><a href="">Sed ut perspiciatis</a></h4>--}}
+                    <p class="description">Integrating Geo-spatial information infrastructure into conservation and management of Wetlands in Ghana. This was done in collaboration Auckland University of Technology.</p>
                 </div>
 
                 <div class="col-lg-4 box">
                     <i class="ion-ios-heart-outline"></i>
-                    <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-                    <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                    {{--<h4 class="title"><a href="">Sed ut perspiciatis</a></h4>--}}
+                    <p class="description">A description of spatial data infrastructure stakeholders in Ghana using the ICA model. In Spatial enablement in support of economic development and poverty reductions</p>
                 </div>
 
                 <div class="col-lg-4 box">
                     <i class="ion-ios-heart-outline"></i>
-                    <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-                    <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                    {{--<h4 class="title"><a href="">Sed ut perspiciatis</a></h4>--}}
+                    <p class="description">Development of a simulation-integrated spatial decision support system for emergency preparedness activities</p>
                 </div>
 
             </div>
@@ -189,7 +189,7 @@
         <div class="container">
 
             <header class="section-header wow fadeInUp">
-                <h3>Services</h3>
+                <h3>Products</h3>
                 <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus, ad pro quaestio laboramus. Ei ubique vivendum pro. At ius nisl accusam lorenta zanos paradigno tridexa panatarel.</p>
             </header>
 
@@ -197,80 +197,80 @@
 
                 <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
                     <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-                    <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-                    <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                    <h4 class="title">Enterprise level software for land administration</h4>
+                    {{--<p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>--}}
                 </div>
                 <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
                     <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-                    <h4 class="title"><a href="">Dolor Sitema</a></h4>
-                    <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                    <h4 class="title">ID Verification service</h4>
+                    {{--<p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>--}}
                 </div>
                 <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
                     <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-                    <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-                    <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                    <h4 class="title">API for programmatic solutions</h4>
+                    {{--<p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>--}}
                 </div>
                 <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
-                    <h4 class="title"><a href="">Magni Dolores</a></h4>
-                    <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    <h4 class="title">Smart Fuel Station Management system</h4>
+                    {{--<p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>--}}
                 </div>
                 <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
-                    <h4 class="title"><a href="">Nemo Enim</a></h4>
-                    <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                    <h4 class="title">Smart Electronics/Robotics Laboratory system</h4>
+                    {{--<p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>--}}
                 </div>
                 <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="icon"><i class="ion-ios-people-outline"></i></div>
-                    <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-                    <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                    <h4 class="title">Mobile real-time survey solutions</h4>
+                    {{--<p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>--}}
                 </div>
 
             </div>
 
         </div>
     </section><!-- #services -->
-    <!--==========================
-      Skills Section
-    ============================-->
-    <section id="skills">
-        <div class="container">
+    {{--<!--==========================--}}
+      {{--Skills Section--}}
+    {{--============================-->--}}
+    {{--<section id="skills">--}}
+        {{--<div class="container">--}}
 
-            <header class="section-header">
-                <h3>Our Skills</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
-            </header>
+            {{--<header class="section-header">--}}
+                {{--<h3>Our Skills</h3>--}}
+                {{--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>--}}
+            {{--</header>--}}
 
-            <div class="skills-content">
+            {{--<div class="skills-content">--}}
 
-                <div class="progress">
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-                        <span class="skill">HTML <i class="val">100%</i></span>
-                    </div>
-                </div>
+                {{--<div class="progress">--}}
+                    {{--<div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">--}}
+                        {{--<span class="skill">HTML <i class="val">100%</i></span>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
 
-                <div class="progress">
-                    <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-                        <span class="skill">CSS <i class="val">90%</i></span>
-                    </div>
-                </div>
+                {{--<div class="progress">--}}
+                    {{--<div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">--}}
+                        {{--<span class="skill">CSS <i class="val">90%</i></span>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
 
-                <div class="progress">
-                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                        <span class="skill">JavaScript <i class="val">75%</i></span>
-                    </div>
-                </div>
+                {{--<div class="progress">--}}
+                    {{--<div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">--}}
+                        {{--<span class="skill">JavaScript <i class="val">75%</i></span>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
 
-                <div class="progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
-                        <span class="skill">Photoshop <i class="val">55%</i></span>
-                    </div>
-                </div>
+                {{--<div class="progress">--}}
+                    {{--<div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">--}}
+                        {{--<span class="skill">Photoshop <i class="val">55%</i></span>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
 
-            </div>
+            {{--</div>--}}
 
-        </div>
-    </section>
+        {{--</div>--}}
+    {{--</section>--}}
     <!--==========================
       Team Section
     ============================-->
@@ -445,7 +445,7 @@
                 <form action="" method="post" role="form" class="contactForm">
                     <div class="form-row">
                         <div class="form-group col-md-6">
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:2" data-msg="Please enter your name" />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group col-md-6">
@@ -454,11 +454,11 @@
                         </div>
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                        <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 4 characters" />
                         <div class="validation"></div>
                     </div>
                     <div class="form-group">
-                        <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                        <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please enter your message" placeholder="Message"></textarea>
                         <div class="validation"></div>
                     </div>
                     <div class="text-center"><button type="submit">Send Message</button></div>
