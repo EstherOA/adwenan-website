@@ -8,7 +8,7 @@
         <div class="container">
             <div class="section-header wow fadeInUp">
                 <h3>Team</h3>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                {{--<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>--}}
             </div>
 
             <div class="row">
@@ -174,7 +174,7 @@
                         <div class="member-info">
                             <div class="member-info-content">
                                 <h4>David Marfo</h4>
-                                <span>Developer</span>
+                                <span>Senior Developer</span>
                                 <div class="social">
                                     <a href=""><i class="fa fa-twitter"></i></a>
                                     <a href=""><i class="fa fa-facebook"></i></a>

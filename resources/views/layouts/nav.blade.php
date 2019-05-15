@@ -5,9 +5,9 @@
     <div class="container-fluid">
 
         <div id="logo" class="pull-left">
-            {{--<h1><a href="" class="scrollto">BizPage</a></h1>--}}
+            <h1><a href="/" class="scrollto">Adwenan</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
-            <a href="/"><img src="{{asset('img/logo.jpg')}}" alt="" title="" style="width: 60px; height: 60px; border-radius: 50%"/></a>
+            {{--<a href="/"><img src="{{asset('img/logo.jpg')}}" alt="" title="" style="width: 60px; height: 60px; border-radius: 50%"/></a>--}}
         </div>
 
         <nav id="nav-menu-container">

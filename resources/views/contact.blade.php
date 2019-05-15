@@ -4,12 +4,12 @@
     <!--==========================
       Contact Section
     ============================-->
-    <section id="contact" class="section-bg wow fadeInUp" style="margin-top: 20px">
+    <section id="contact" class="section-bg wow fadeInUp" style="margin-top: 20px;">
         <div class="container">
 
             <div class="section-header">
                 <h3>Contact Us</h3>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                {{--<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>--}}
             </div>
 
             <div class="row contact-info">
@@ -18,7 +18,11 @@
                     <div class="contact-address">
                         <i class="ion-ios-location-outline"></i>
                         <h3>Address</h3>
-                        <address>A108 Adam Street, NY 535022, USA</address>
+                        <address><p>
+                                RM CE2.7, School of Engineering Building <br>
+                                University of Ghana, Legon<br>
+                                Accra, Ghana <br>
+                            </p></address>
                     </div>
                 </div>
 
@@ -26,7 +30,7 @@
                     <div class="contact-phone">
                         <i class="ion-ios-telephone-outline"></i>
                         <h3>Phone Number</h3>
-                        <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+                        <p><a href="tel:+233-(0)578189085">++233-(0)578189085</a></p>
                     </div>
                 </div>
 
@@ -34,7 +38,7 @@
                     <div class="contact-email">
                         <i class="ion-ios-email-outline"></i>
                         <h3>Email</h3>
-                        <p><a href="mailto:info@example.com">info@example.com</a></p>
+                        <p><a href="mailto:adwenaneng@gmail.com">adwenaneng@gmail.com</a></p>
                     </div>
                 </div>
 
@@ -67,5 +71,5 @@
             </div>
 
         </div>
-    </section><!-- #contact -->
+    </section>
 @endsection

@@ -15,11 +15,11 @@
                 <div class="col-md-4 footer-links" style="margin-left: 0">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-                        <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-                        <li><i class="ion-ios-arrow-right"></i> <a href="#">Products and Solutions</a></li>
-                        <li><i class="ion-ios-arrow-right"></i> <a href="#">Projects</a></li>
-                        <li><i class="ion-ios-arrow-right"></i> <a href="#">Team</a></li>
+                        <li><i class="ion-ios-arrow-right"></i> <a href="/">Home</a></li>
+                        <li><i class="ion-ios-arrow-right"></i> <a href="/about">About us</a></li>
+                        <li><i class="ion-ios-arrow-right"></i> <a href="/products">Products and Solutions</a></li>
+                        <li><i class="ion-ios-arrow-right"></i> <a href="/projects">Projects</a></li>
+                        <li><i class="ion-ios-arrow-right"></i> <a href="/team">Team</a></li>
                     </ul>
                 </div>
 
@@ -40,7 +40,6 @@
                         <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
                         <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
                     </div>
-
                 </div>
 
                 {{--<div class="col-lg-3 col-md-6 footer-newsletter">--}}
