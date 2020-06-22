@@ -7,10 +7,10 @@
         <div class="container">
             <div class="row">
 
-                {{--<div class="col-lg-4 col-md-6 footer-info">--}}
-                    {{--<h3>BizPage</h3>--}}
-                    {{--<p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>--}}
-                {{--</div>--}}
+                <div class="col-md-4 footer-info">
+                    {{--<h3>Adwenan</h3>--}}
+                    <a href="/"><img src="{{asset('img/logo.jpg')}}" alt="" title="" style="width: 150px; height: 15php 0px; border-radius: 50%"/></a>
+                </div>
 
                 <div class="col-md-4 footer-links" style="margin-left: 0">
                     <h4>Useful Links</h4>
@@ -23,7 +23,7 @@
                     </ul>
                 </div>
 
-                <div class="col-md-4 offset-md-4 footer-contact">
+                <div class="col-md-4 footer-contact">
                     <h4>Contact Us</h4>
                     <p>
                         RM CE2.7, School of Engineering Building <br>
